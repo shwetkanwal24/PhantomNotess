@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286496637142",
+    "project_id": "phantom-notes",
+    "storage_bucket": "phantom-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286496637142:android:a49bcaf946aea388284977",
+        "android_client_info": {
+          "package_name": "com.hakai.phantomnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286496637142-u84bumgn78gpirl24fo6mplsv346m18u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPFLCk4Qy1pSc_9qtI7kp_Aaix0OjEByM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286496637142-u84bumgn78gpirl24fo6mplsv346m18u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
